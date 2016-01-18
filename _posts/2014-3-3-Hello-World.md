@@ -1,10 +1,22 @@
 ---
 layout: post
-title: You're up and running!
+Musings on Data Science and Other Topics
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+### The Data Science Agile Project Wheel (2015.01.18) 
+I am super excited about completing my first week at 
+[Metis](http://www.thisismetis.com/).
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+We learned so much about Data Science.  Bo Peng's awsome presentation on the Design Process of Data Science inspired me to explore an agile approach to Data Science.  So I employed my cat, my hamster, and his hamster ball to explain it all.  More on that below.
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+For our first Metis project we analyzed MTA Turnstile Data (and other data) to optimize street team performance for a client.
+
+![_config.yml]({{ site.baseurl }}/_posts/Metis/W1/p1team6.jpg)
+
+![_config.yml]({{ site.baseurl }}/_posts/Metis/W1/Benson6.pdf)
+
+Do checkout ![_config.yml]({{ site.baseurl }}/_posts/Metis/W1/Benson6.pdf) .
+Let us know what you think!
+
+
+
