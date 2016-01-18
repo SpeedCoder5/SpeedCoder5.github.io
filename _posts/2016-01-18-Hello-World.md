@@ -11,11 +11,11 @@ We learned so much about Data Science.  Bo Peng's awsome presentation on the Des
 
 For our first Metis project we analyzed MTA Turnstile Data (and other data) to optimize street team performance for a client.
 
-[WTWY Street Team Optimization]({{ site.baseurl }}/_posts/Metis/W1/p1team6.jpg)
+![WTWY Street Team Optimization]({{ site.baseurl }}/_posts/Metis/W1/p1team6.jpg)
 
-... you can directly [get the PDF]({{ site.baseurl }}/_posts/Metis/W1/Benson6.pdf).
+... you can directly ![get the PDF]({{ site.baseurl }}/_posts/Metis/W1/Benson6.pdf).
 
-Do checkout [The Hampster Wheel and the How and Why of Data Science]({{ site.baseurl }}/_posts/Metis/W1/DataScienceAgileWheel.pdf) .
+Do checkout ![The Hampster Wheel and the How and Why of Data Science]({{ site.baseurl }}/_posts/Metis/W1/DataScienceAgileWheel.pdf) .
 Let us know what you think!
 
 
