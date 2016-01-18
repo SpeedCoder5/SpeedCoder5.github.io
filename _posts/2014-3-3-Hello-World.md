@@ -3,7 +3,7 @@ layout: post
 Musings on Data Science and Other Topics
 ---
 
-### The Data Science Agile Project Wheel (2015.01.18) 
+### The Data Science Agile Project Wheel (2016.01.18) 
 I am super excited about completing my first week at 
 [Metis](http://www.thisismetis.com/).
 
@@ -13,9 +13,9 @@ For our first Metis project we analyzed MTA Turnstile Data (and other data) to o
 
 ![_config.yml]({{ site.baseurl }}/_posts/Metis/W1/p1team6.jpg)
 
-![_config.yml]({{ site.baseurl }}/_posts/Metis/W1/Benson6.pdf)
+![Optimizing Street Team Effectiveness via MTA Data](./_posts/Metis/W1/Benson6.pdf)
 
-Do checkout ![_config.yml]({{ site.baseurl }}/_posts/Metis/W1/Benson6.pdf) .
+Do checkout ![The Hampster Wheel and the How and Why of Data Science](./_posts/Metis/W1/Benson6.pdf) .
 Let us know what you think!
 
 
