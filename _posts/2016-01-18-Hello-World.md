@@ -13,9 +13,9 @@ For our first Metis project we analyzed MTA Turnstile Data (and other data) to o
 
 ![WTWY Street Team Optimization]({{ site.url }}/assets/Metis/W1/p1team6.jpg)
 
-... you can directly ![get the PDF]({{ site.url }}/_assets/Metis/W1/Benson6.pdf).
+... you can directly [get the PDF]({{ site.url }}/_assets/Metis/W1/Benson6.pdf).
 
-Do checkout ![The Hampster Wheel and the How and Why of Data Science]({{ site.url}}/assets/Metis/W1/DataScienceAgileWheel.pdf) .
+Do checkout [The Hampster Wheel and the How and Why of Data Science]({{ site.url}}/assets/Metis/W1/DataScienceAgileWheel.pdf) .
 Let us know what you think!
 
 
