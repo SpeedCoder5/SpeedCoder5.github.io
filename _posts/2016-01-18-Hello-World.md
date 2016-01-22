@@ -9,6 +9,7 @@ Musings on Data Science and Other Topics
 
 We learned so much about Data Science.  Bo Peng's awsome presentation on the Design Process of Data Science inspired me to explore an agile approach to Data Science.  So I employed my cat, my hamster, and his hamster ball to explain it all.  Here it goes:
 
+![alt text](https://github.com/SpeedCoder5/SpeedCoder5.github.io/blob/master/assets/Metis/W1/Work/CuriousCatCropped.png)
 The Question?
 Doing vast amounts of homework with my pets led me to wonder:
 How do
